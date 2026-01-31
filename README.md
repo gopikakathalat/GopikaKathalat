@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gopika! 👋
 
-<!--
-**gopikakathalat/GopikaKathalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Business Analyst & HR Strategist
+*I bridge the gap between complex data and strategic business decisions.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+- **Data Analytics:** SQL (Intermediate), Advanced Excel (Pivot Tables, Macros), Google Data Analytics.
+- **AI & Automation:** Generative AI for Business, AI-Workflow Automation (ChatGPT, Gemini).
+- **Strategy:** Strategic Management (IIM Bangalore - In Progress).
+
+---
+
+### 📈 What I'm working on
+- 📊 **Google Data Analytics Capstone:** Analyzing real-world datasets to identify business trends.
+- 🤖 **HR Tech Automation:** Developing AI-driven workflows to reduce time-to-hire.
+- 💡 **Strategic Research:** Case studies on market entry and organizational behavior.
+
+---
+
+### 📫 Connect with me:
+- 💼 [LinkedIn](www.linkedin.com/in/gopika-k-67a6ab24b)
+- 📧 [Email Me](mailto:gopikak767@gmail.com)
+- 📍 Based in Kerala, India | ✈️ Ready to relocate to Dubai/UAE
