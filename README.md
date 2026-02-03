@@ -20,6 +20,6 @@
 ---
 
 ### 📫 Connect with me:
-- 💼 [LinkedIn](www.linkedin.com/in/gopika-k-67a6ab24b)
+- 💼 [LinkedIn](www.linkedin.com/in/gopikakathalat)
 - 📧 [Email Me](mailto:gopikak767@gmail.com)
 - 📍 Based in Kerala, India | ✈️ Ready to relocate to Dubai/UAE
